@@ -82,6 +82,7 @@ Nếu có một cột (column) không phải text, sử dụng `<DataGridTemplat
     <DataGrid.Columns>
         ...
     </DataGrid.Columns>
+
     <DataGrid.RowDetailsTemplate>
         <DataTemplate>
             <Expander>
@@ -91,4 +92,5 @@ Nếu có một cột (column) không phải text, sử dụng `<DataGridTemplat
     </DataGrid.RowDetailsTemplate>
 </DataGrid>
 ```
+
 
